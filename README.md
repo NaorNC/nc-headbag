@@ -16,10 +16,15 @@
 ensure nc-headbag
 ```
 
-# Add the item to Shared.lua
+# Add the item to your core
 
 In ```shared.lua``` enter the following Item.
 
 ```lua 
-["head_mask"] 					 = {["name"] = "head_mask", 			 	["label"] = "Head Mask", 						["weight"] = 5, 		["type"] = "item", 		["image"] = "head_mask.png", 			["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Put mask on hostage."},
+["head_bag"] 					 = {["name"] = "head_bag", 			 	["label"] = "Head Bag", 						["weight"] = 5, 		["type"] = "item", 		["image"] = "head_bag.png", 			["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Put mask on hostage."},
 ```
+
+# Inventory image
+
+- Add the head_bug to your inventory -> html -> images
+- In the ```images``` folder put the image - head_bag
