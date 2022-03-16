@@ -30,4 +30,3 @@ In ```shared.lua``` enter the following Item.
 # Inventory image
 
 - Add the head_bag.png to your inventory -> html -> images
-- In the ```images``` folder put the image - head_bag
