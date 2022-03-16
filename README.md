@@ -1,9 +1,12 @@
-## Video
+## Video & Screenshot
 
-- Click here - streamable.com/soon
+- click - https://streamable.com/bvcerd
+
+![nc-headbag](https://i.ibb.co/ZcnTVKy/image.png)
 
 # nc-headmask
 
+- Important to know - you can only use the mask when the hands of the person in front of you are raised.
 - The HeadBag is ready for use, everything works at %100.
 - If you run into a problem, you are always welcome to contact me at Discord (found on my github profile)
 
