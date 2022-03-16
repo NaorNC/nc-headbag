@@ -4,7 +4,7 @@
 
 ![nc-headbag](https://i.ibb.co/ZcnTVKy/image.png)
 
-# nc-headmask
+# nc-headbag
 
 - Important to know - you can only use the mask when the hands of the person in front of you are raised.
 - The HeadBag is ready for use, everything works at %100.
