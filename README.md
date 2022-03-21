@@ -8,7 +8,7 @@
 
 - Important to know - you can only use with the headbag when the hands of the person in front of you are raised.
 - The HeadBag is ready for use, everything works at %100.
-- If you run into a problem, you are always welcome to contact me at Discord (found on my github profile)
+- If you run into a problem, you are always welcome to contact me at Discord (https://discord.gg/eET8CtgX97)
 
 # Installation
 
